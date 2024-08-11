@@ -1,6 +1,5 @@
 <h1>Hey! Nice to see you. 👋 </h1>
 
-
 <!-- <p>Welcome to my page! </br> I'm Deho, Backend developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p> -->
 <h3>Things I code with</h3>
 <p>
@@ -22,8 +21,19 @@
   <img src="https://img.shields.io/badge/QueryDsl-F0FFFF?style=flat-square&logo=queryDsl&logoColor=white" alt="QueryDsl">
 <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Data JPA">
 <img src="https://img.shields.io/badge/Bamboo_CI%2FCD-0052CC?style=flat-square&logo=bamboo&logoColor=white" alt="Bamboo CI/CD">
+<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
+</p>
 
+<h3>Where to find me</h3>
+<p>
+<a href="https://github.com/KyleKim107" target="_blank">
+<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/feed/" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/feed/" target="_blank">
+<img alt="velog" src="https://img.shields.io/badge/Velog-1dbf73?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@kwak0568"/></a>
+<a href="https://velog.io/@sigint_107/posts">
 
 </p>
 
