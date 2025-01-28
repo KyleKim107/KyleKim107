@@ -23,6 +23,8 @@
 <img src="https://img.shields.io/badge/Bamboo_CI%2FCD-0052CC?style=flat-square&logo=bamboo&logoColor=white" alt="Bamboo CI/CD">
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
+<img src="https://img.shields.io/badge/scala-F0FFFF?style=flat-square&logo=scala&logoColor=red" alt="Postman">
+
 </p>
 
 <h3>Where to find me</h3>
@@ -31,10 +33,8 @@
 <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/feed/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.linkedin.com/feed/" target="_blank">
+<a href="https://velog.io/@sigint_107/posts" target="_blank">
 <img alt="velog" src="https://img.shields.io/badge/Velog-1dbf73?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@kwak0568"/></a>
-<a href="https://velog.io/@sigint_107/posts">
-
 </p>
 
 <!--
